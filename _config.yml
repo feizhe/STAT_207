@@ -1,10 +1,13 @@
-title: STAT 207: Advanced Statistical Computing # your name (or website title) here
-logo: "/images/convex-optimization-image.png" # your photo (or logo) here
+title: Zhe Fei (费哲) # your name (or website title) here
+logo: "/images/convex-optimization-image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Webpage for course materials and schedule
+  Assistant Professor at UC Riverside, Statistics Department
   <br><br>
-  <a href="/Syllabi/Syllabus_STAT207_Sp23.pdf">Spring 2023 Syllabus</a>
+  <a href="https://www.dropbox.com/s/t5x3i6ysq3hjki8/CV_ZheFei_public.pdf?dl=0">CV</a>
   <br><br>
-
+  <a href="https://sites.google.com/view/feizhepku/home/research?authuser=0">Research</a> 
+  <br><br>
+  <a href="https://sites.google.com/view/feizhepku/home/teaching?authuser=0">Teaching</a> 
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
