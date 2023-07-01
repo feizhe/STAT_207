@@ -3,7 +3,7 @@ logo: "/images/convex-optimization-image.png?raw=true" # your photo (or logo) he
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Course Website
   <br><br>
-  <a href="/Syllabi/Syllabus_STAT207_Sp23.pdf">Syllabus Sp23</a>
+  <a href="/STAT_207/Syllabi/Syllabus_STAT207_Sp23.pdf">Syllabus Sp23</a>
   <br><br>
   
 theme: jekyll-theme-minimal
