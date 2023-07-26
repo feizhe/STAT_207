@@ -7,17 +7,14 @@
 [Algorithms](/Notes/Algorithms.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
 
 [Linear Regression and Matrix Inversion](/Notes/LRMI.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
 
 [Nonlinear Functions](/Notes/NonlinearFunctions.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
 
 [MM Algorithm](/Notes/MM.pdf)
 
