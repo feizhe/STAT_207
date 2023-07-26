@@ -4,17 +4,17 @@
 
 ### Course Notes
 
-[Algorithms](href="/Notes/Algorithms.pdf")
+[Algorithms]("/Notes/Algorithms.pdf")
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
-[Placeholder 1](https://www.biorxiv.org/content/10.1101/2021.01.18.426733v1.full)
+[Linear Regression and Matrix Inversion](href="/Notes/LRMI.pdf")
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
-[Placeholder 2](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1957900?journalCode=uasa20),
+[Nonlinear Functions](href="/Notes/NonlinearFunctions.pdf"),
 [Code](https://github.com/feizhe/HDCQR_Paper)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
