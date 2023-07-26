@@ -4,7 +4,7 @@
 
 ### Course Notes
 
-[Algorithms]("/Notes/Algorithms.pdf")
+[Algorithms](/Notes/Algorithms.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
