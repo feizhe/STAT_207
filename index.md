@@ -22,7 +22,7 @@
 
 [Newton's Method](/Notes/Newton-2.pdf)
 
-[Other Optimization Topics](/Notes/Opt_top.pdf)
+[Additional Optimization Topics](/Notes/Opt_top.pdf)
 
 ## Homeworks
 
