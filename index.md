@@ -4,30 +4,32 @@
 
 ### Course Notes
 
-[Algorithms](href="/Notes/Algorithms.pdf")
+[Algorithms](/Notes/Algorithms.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
 
-[Placeholder 1](https://www.biorxiv.org/content/10.1101/2021.01.18.426733v1.full)
+[Linear Regression and Matrix Inversion](/Notes/LRMI.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
 
-[Placeholder 2](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1957900?journalCode=uasa20),
-[Code](https://github.com/feizhe/HDCQR_Paper)
+[Nonlinear Functions](/Notes/NonlinearFunctions.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
 
-[Placeholder 3](https://www.jmlr.org/papers/v22/19-132.html),
-[Code](https://github.com/feizhe/SSHDI)
+[MM Algorithm](/Notes/MM.pdf)
+
+[EM Algorithm](/Notes/EM.pdf)
+
+[Newton's Method](/Notes/Newton-2.pdf)
+
+[Additional Optimization Topics](/Notes/Opt_top.pdf)
 
 ## Homeworks
 
-- [HW1](HW1)
-- [HW2](HW2)
-- [HW3](HW3)
+- [HW1](/Notes/HW1.html)
+- [HW2](/Notes/HW2.pdf)
+- [HW3](/Notes/HW3.pdf)
+- [HW4](/Notes/HW4.pdf)
 
 ---
 
