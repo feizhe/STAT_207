@@ -1,4 +1,4 @@
-## Spring 2023
+## Spring 2025
 
 ---
 
@@ -26,10 +26,12 @@
 
 ## Homeworks
 
-- [HW1](/Notes/HW1.html)
-- [HW2](/Notes/HW2.pdf)
-- [HW3](/Notes/HW3.pdf)
-- [HW4](/Notes/HW4.pdf)
+## Papers
+
+- [DeepSeek R1](/papers/deepseek_R1_report.pdf)
+
+- [Deep Learning Intro](/papers/annurev-statistics-Deep_Learning.pdf)
+
 
 ---
 
