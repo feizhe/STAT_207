@@ -2,6 +2,10 @@
 
 ---
 
+### Intro
+
+- [Eﬀective and Responsible Use of AI in Research - UCR document](/papers/Eﬀective%20and%20Responsible%20Use%20of%20AI%20in%20Research.docx)
+
 ### Course Notes
 
 [Algorithms](/Notes/Algorithms.pdf)
@@ -28,9 +32,9 @@
 
 ## Papers
 
-- [DeepSeek R1](/papers/deepseek_R1_report.pdf)
+- [DeepSeek R1](https://arxiv.org/abs/2501.12948)
 
-- [Deep Learning Intro](/papers/annurev-statistics-Deep_Learning.pdf)
+- [Deep Learning Intro](/papers/Deep%20learning%20Intro.pdf)
 
 
 ---
