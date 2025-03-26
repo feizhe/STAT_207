@@ -4,7 +4,7 @@
 
 ### Intro
 
-- [Intro](Notes/0.Intro.html)
+- [Intro](Notes/0.Intro.ipynb)
 - [Eﬀective and Responsible Use of AI in Research - UCR document](/papers/Eﬀective_and_Responsible_Use_of_AI_in_Research.docx)
 
 ### Course Notes
