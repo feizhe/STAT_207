@@ -9,32 +9,32 @@
 
 ### Course Notes
 
-[Algorithms](/Notes/Algorithms.html), [Source](/Notes/1.%20Algorithms.ipynb)
+[Algorithms](/Notes/Algorithms.html), [Source](/Notes/1.Algorithms.ipynb)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-[Nonlinear Functions](/Notes/NonlinearFunctions.html)
+[Nonlinear Functions](/Notes/NonlinearFunctions.html), [Source](/Notes/2.NonlinearFunctions.ipynb)
 
-[Vectors and Matrices](/Notes/VectorsMatrices.html)
+[Vectors and Matrices](/Notes/VectorsMatrices.html), [Source](/Notes/3.VectorsMatrices.ipynb)
 
-[Matrix Inversion](/Notes/MatrixInversion.html)
+[Matrix Inversion](/Notes/MatrixInversion.html), [Source](/Notes/4.MatrixInversion.ipynb)
 
-[Eigenvalues and Eigenvectors](/Notes/Eigen.html)
+[Eigenvalues and Eigenvectors](/Notes/Eigen.html), [Source](/Notes/5.Eigen.ipynb)
 
-[Singular Value Decomposition](/Notes/SVD.html)
+[Singular Value Decomposition](/Notes/SVD.html), [Source](/Notes/6.SVD.ipynb)
 
-[Optimization](/Notes/Opt.html)
+[Optimization](/Notes/Opt.html), [Source](/Notes/7.Opt.ipynb)
 
-[MM Algorithm](/Notes/MM.html)
+[MM Algorithm](/Notes/MM.html), [Source](/Notes/8.MM.ipynb)
 
-[EM Algorithm](/Notes/EM.html)
+[EM Algorithm](/Notes/EM.html), [Source](/Notes/9.EM.ipynb)
 
-[Newton's Method](/Notes/Newton.html)
+[Newton's Method](/Notes/Newton.html), [Source](/Notes/10.Newton.ipynb)
 
-[Linear Programming](/Notes/LP.html)
+[Linear Programming](/Notes/LP.html), [Source](/Notes/12.LP.ipynb)
 
-[Advanced Optimization Topics](/Notes/Opt_top.html)
+[Advanced Optimization Topics](/Notes/Opt_top.html), [Source](/Notes/11.Opt_top.ipynb)
 
-[Random Deviates](/Notes/random.html)
+[Random Deviates](/Notes/random.html), [Source](/Notes/13.random.ipynb)
 
 
 ## Assignments
