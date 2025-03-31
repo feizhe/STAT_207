@@ -9,12 +9,12 @@
 
 ### Course Notes
 
-[Algorithms](/Notes/Algorithms.html)
+[Algorithms](/Notes/Algorithms.html), [Source](/Notes/1.\_Algorithms.ipynb)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 [Nonlinear Functions](/Notes/NonlinearFunctions.html)
 
-[Vectors and matrices](/Notes/VectorsMatrices.html)
+[Vectors and Matrices](/Notes/VectorsMatrices.html)
 
 [Matrix Inversion](/Notes/MatrixInversion.html)
 
@@ -24,13 +24,18 @@
 
 [Optimization](/Notes/Opt.html)
 
-[MM Algorithm](/Notes/MM.pdf)
+[MM Algorithm](/Notes/MM.html)
 
-[EM Algorithm](/Notes/EM.pdf)
+[EM Algorithm](/Notes/EM.html)
 
-[Newton's Method](/Notes/Newton-2.pdf)
+[Newton's Method](/Notes/Newton.html)
 
-[Advanced Optimization Topics](/Notes/Opt_top.pdf)
+[Linear Programming](/Notes/LP.html)
+
+[Advanced Optimization Topics](/Notes/Opt_top.html)
+
+[Random Deviates](/Notes/random.html)
+
 
 ## Assignments
 
