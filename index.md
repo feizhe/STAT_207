@@ -4,21 +4,25 @@
 
 ### Intro
 
-- [Intro](Notes/0.Intro.ipynb)
+- [Intro](Notes/0.Intro.html)
 - [Eﬀective and Responsible Use of AI in Research - UCR document](/papers/Eﬀective_and_Responsible_Use_of_AI_in_Research.docx)
 
 ### Course Notes
 
-[Algorithms](/Notes/Algorithms.pdf)
+[Algorithms](/Notes/Algorithms.html)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
+[Nonlinear Functions](/Notes/NonlinearFunctions.html)
 
-[Linear Regression and Matrix Inversion](/Notes/LRMI.pdf)
+[Vectors and matrices](/Notes/VectorsMatrices.html)
 
+[Matrix Inversion](/Notes/MatrixInversion.html)
 
-[Nonlinear Functions](/Notes/NonlinearFunctions.pdf)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[Eigenvalues and Eigenvectors](/Notes/Eigen.html)
 
+[Singular Value Decomposition](/Notes/SVD.html)
+
+[Optimization](/Notes/Opt.html)
 
 [MM Algorithm](/Notes/MM.pdf)
 
@@ -26,11 +30,11 @@
 
 [Newton's Method](/Notes/Newton-2.pdf)
 
-[Additional Optimization Topics](/Notes/Opt_top.pdf)
+[Advanced Optimization Topics](/Notes/Opt_top.pdf)
 
-## Homeworks
+## Assignments
 
-## Papers
+## Reading Materials
 
 - [DeepSeek R1](https://arxiv.org/abs/2501.12948)
 
