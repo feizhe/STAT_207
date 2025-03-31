@@ -9,7 +9,7 @@
 
 ### Course Notes
 
-[Algorithms](/Notes/Algorithms.html), [Source](/Notes/1.\_Algorithms.ipynb)
+[Algorithms](/Notes/Algorithms.html), [Source](/Notes/1.%20Algorithms.ipynb)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 [Nonlinear Functions](/Notes/NonlinearFunctions.html)
