@@ -1,4 +1,14 @@
-## Spring 2025
+---
+layout: index
+title: STAT 207 - Advanced Statistical Computing
+---
+
+<!-- Place your image, links, and text directly here: -->
+<div style="float: right; max-width: 200px; margin: 0 0 1em 1em;">
+  <img src="/images/convex-optimization-image.png?raw=true"  style="width: 100%;">
+</div>
+
+<h2>Spring 2025</h2>
 
 ---
 
@@ -35,15 +45,6 @@
 [Advanced Optimization Topics](/Notes/Opt_top.html), [Source](/Notes/11.Opt_top.ipynb)
 
 [Random Deviates](/Notes/random.html), [Source](/Notes/13.random.ipynb)
-
-
-## Assignments
-
-## Reading Materials
-
-- [DeepSeek R1](https://arxiv.org/abs/2501.12948)
-
-- [Deep Learning Intro](/papers/Deep_learning_Intro.pdf)
 
 
 ---
