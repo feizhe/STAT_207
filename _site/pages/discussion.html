@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <title>Exercises for Discussion</title>
     
-    <meta name="author" content="">
+    <meta name="author" content="Zhe FEI">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,8 +25,8 @@
     <!-- Le fav and touch icons -->
 
     <!-- atom & rss feed -->
-    <link href="" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    <link href="nil" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="nil" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
 
   </head>
 
@@ -59,61 +59,181 @@
 
 <div class="row-fluid">
   <div class="span12">
-    <p>Presentation assignment</p>
+    <h3 id="guidelines">Guidelines</h3>
+
+<ul>
+  <li>
+    <p><strong>Presentation:</strong> The assigned presenter is expected to lead the discussion on the exercises and examples, delivering a mini-lecture. You are welcome to add additional notes or content to the notebooks.</p>
+  </li>
+  <li>
+    <p><strong>Duration:</strong> Aim for a presentation length of approximately 15–20 minutes.</p>
+  </li>
+  <li>
+    <p><strong>Scheduling:</strong> I will confirm the presenters for the upcoming week every Monday or Tuesday.</p>
+  </li>
+  <li>
+    <p><strong>Substitution:</strong> If a presenter is unavailable (e.g., due to dropping the class), the next person in line will take their place.</p>
+  </li>
+  <li>
+    <p><strong>Order:</strong> Presentation orders are determined by random shuffling using the code provided below.</p>
+  </li>
+</ul>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">random</span>
+
+<span class="c1"># Define the list of students
+</span><span class="n">students</span> <span class="o">=</span> <span class="p">[</span>
+    <span class="s">"FallahiFard, Behzad"</span><span class="p">,</span>
+    <span class="s">"Galicia Lona, Axel"</span><span class="p">,</span>
+    <span class="s">"Jones, Nathalie"</span><span class="p">,</span>
+    <span class="s">"Lee, Wonkeun"</span><span class="p">,</span>
+    <span class="s">"Li, Chuanman"</span><span class="p">,</span>
+    <span class="s">"Lin, Pei-Ling"</span><span class="p">,</span>
+    <span class="s">"Lin, Ying"</span><span class="p">,</span>
+    <span class="s">"Liu, Linlin"</span><span class="p">,</span>
+    <span class="s">"Liu, Yuxin"</span><span class="p">,</span>
+    <span class="s">"Lopez, Nancy"</span><span class="p">,</span>
+    <span class="s">"Olawole, Alice"</span><span class="p">,</span>
+    <span class="s">"Qu, Xinhao"</span><span class="p">,</span>
+    <span class="s">"Tang, Luhan"</span><span class="p">,</span>
+    <span class="s">"Wang, Kaiming"</span><span class="p">,</span>
+    <span class="s">"Wu, Yifan"</span><span class="p">,</span>
+    <span class="s">"Xue, Yijia"</span><span class="p">,</span>
+    <span class="s">"Yang, Chenguang"</span><span class="p">,</span>
+    <span class="s">"Zhou, Bufan"</span>
+<span class="p">]</span>
+
+<span class="c1"># Shuffle the list randomly
+</span><span class="n">random</span><span class="p">.</span><span class="n">shuffle</span><span class="p">(</span><span class="n">students</span><span class="p">)</span>
+<span class="c1"># Print out the random order
+</span><span class="k">print</span><span class="p">(</span><span class="s">"Random order of students:"</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">index</span><span class="p">,</span> <span class="n">student</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">students</span><span class="p">,</span> <span class="n">start</span><span class="o">=</span><span class="mi">1</span><span class="p">):</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"</span><span class="si">{</span><span class="n">index</span><span class="si">}</span><span class="s">: </span><span class="si">{</span><span class="n">student</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+</code></pre></div></div>
 
 <hr />
 
+<h3 id="week-1">Week 1:</h3>
+
 <ul>
-  <li>Week 1: <a href="/Exercises/S01_Jupyter_and_Python.ipynb">Jupyter and Python</a>, <a href="/Exercises/T00_Statistical_Computing.ipynb">Intro to Statistical Computing</a></li>
+  <li>
+    <p><a href="/Exercises/S01_Jupyter_and_Python.ipynb">Jupyter and Python</a></p>
+  </li>
+  <li>
+    <p><a href="/Exercises/T00_Statistical_Computing.ipynb">Intro to Statistical Computing</a></p>
+  </li>
 </ul>
 
 <hr />
 
+<h3 id="week-2">Week 2:</h3>
+
 <ul>
-  <li>Week 2:</li>
+  <li>
+    <p><strong>Qu, Xinhao</strong>, <a href="/Exercises/Sorting.ipynb">Sorting</a></p>
+  </li>
+  <li>
+    <p><strong>Lopez, Nancy</strong>, <a href="/Exercises/reals.ipynb">Real Numbers</a></p>
+  </li>
 </ul>
 
 <hr />
 
+<h3 id="week-3">Week 3:</h3>
+
 <ul>
-  <li>Week 3:</li>
+  <li>
+    <p><strong>Zhou, Bufan</strong>,</p>
+  </li>
+  <li>
+    <p><strong>Li, Chuanman</strong>,</p>
+  </li>
+  <li>
+    <p><strong>Olawole, Alice</strong>,</p>
+  </li>
 </ul>
 
 <hr />
 
+<h3 id="week-4">Week 4:</h3>
+
 <ul>
-  <li>Week 4:</li>
+  <li>
+    <p><strong>Galicia Lona, Axel</strong>,</p>
+  </li>
+  <li>
+    <p><strong>Xue, Yijia</strong>,</p>
+  </li>
+  <li>
+    <p><strong>Jones, Nathalie</strong>,</p>
+  </li>
 </ul>
 
 <hr />
 
+<h3 id="week-5">Week 5:</h3>
+
 <ul>
-  <li>Week 5:</li>
+  <li>
+    <p><strong>Lin, Ying</strong>,</p>
+  </li>
+  <li>
+    <p><strong>Wu, Yifan</strong>,</p>
+  </li>
 </ul>
 
 <hr />
 
+<h3 id="week-6">Week 6:</h3>
+
 <ul>
-  <li>Week 6:</li>
+  <li>
+    <p><strong>Wang, Kaiming</strong>,</p>
+  </li>
+  <li>
+    <p><strong>Lin, Pei-Ling</strong>,</p>
+  </li>
 </ul>
 
 <hr />
 
+<h3 id="week-7">Week 7:</h3>
+
 <ul>
-  <li>Week 7:</li>
+  <li>
+    <p><strong>FallahiFard, Behzad</strong>,</p>
+  </li>
+  <li>
+    <p><strong>Liu, Yuxin</strong>,</p>
+  </li>
 </ul>
 
 <hr />
 
+<h3 id="week-8">Week 8:</h3>
+
 <ul>
-  <li>Week 8:</li>
+  <li>
+    <p><strong>Tang, Luhan</strong>,</p>
+  </li>
+  <li>
+    <p><strong>Liu, Linlin</strong>,</p>
+  </li>
 </ul>
 
 <hr />
 
+<h3 id="week-9">Week 9:</h3>
+
 <ul>
-  <li>Week 9:</li>
+  <li>
+    <p><strong>Yang,Chenguang</strong>,</p>
+  </li>
+  <li>
+    <p><strong>Lee, Wonkeun</strong></p>
+  </li>
 </ul>
+
 
   </div>
 </div>
