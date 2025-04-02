@@ -15,7 +15,12 @@ title: STAT 207 - Advanced Statistical Computing
 ### Intro
 
 - [Intro](Notes/0.Intro.html)
+
 - [Eﬀective and Responsible Use of AI in Research - UCR document](/papers/Eﬀective_and_Responsible_Use_of_AI_in_Research.docx)
+
+- Office Hours:  M/W 10:00 - 11:00 AM, or by appointment. Zoom (https://ucr.zoom.us/j/99515225321)
+
+
 
 ### Course Notes
 
