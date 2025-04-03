@@ -7521,7 +7521,25 @@ a.anchor-link {
 <li>CS Chapters 2,3; NAS Chapter 1.</li>
 </ul>
 <h3 id="Algorithms">Algorithms<a class="anchor-link" href="#Algorithms">¶</a></h3><p>Loosely speaking, algorithm is a method or a set of instructions for doing something.</p>
-<p>Algorithms are sometimes distinguished as</p>
+<p><strong>How to cook fried rice</strong>:</p>
+<ol>
+<li><p><strong>Prepare Ingredients:</strong><br/>
+Use pre-cooked, chilled rice; chop vegetables; beat eggs; and, if desired, cut protein into bite-sized pieces.</p>
+</li>
+<li><p><strong>Heat the Oil:</strong><br/>
+Heat oil in a wok or pan and sauté garlic and ginger until fragrant.</p>
+</li>
+<li><p><strong>Cook Protein &amp; Eggs:</strong><br/>
+Stir-fry protein until cooked, then scramble eggs and set both aside.</p>
+</li>
+<li><p><strong>Combine &amp; Stir-Fry:</strong><br/>
+Add vegetables to the pan, then stir in rice. Return protein and eggs, and season with soy sauce, salt, and pepper.</p>
+</li>
+<li><p><strong>Serve:</strong><br/>
+Garnish with green onions or sesame seeds and serve hot.</p>
+</li>
+</ol>
+<p><strong>Algorithms</strong> are sometimes distinguished as</p>
 <ul>
 <li><p>Numerical</p>
 </li>
@@ -7530,7 +7548,7 @@ a.anchor-link {
 <li><p>Nonnumerical</p>
 </li>
 </ul>
-<p>The program is the set of computer instructions that implement the algorithm.</p>
+<p><strong>Program</strong> is a set of computer instructions that implement the algorithm.</p>
 <ul>
 <li><p>A poor implementation can render a good algorithm useless.</p>
 </li>
@@ -7542,9 +7560,9 @@ a.anchor-link {
 either for the algorithm or for the implementation in the given program.</p>
 <p>Two most important aspects of a computer algorithm:</p>
 <ul>
-<li><p>Accuracy</p>
+<li><p><strong>Accuracy</strong></p>
 </li>
-<li><p>Efficiency</p>
+<li><p><strong>Efficiency</strong></p>
 </li>
 </ul>
 </div>
@@ -7626,6 +7644,7 @@ near the point $t_0$.</p>
 <li><p>$O(1/k!)$</p>
 </li>
 </ul>
+<p><strong>Sample Mean</strong>: Say $E(X) = \mu$, the mean estimate of $n$ samples is $\widehat{\mu} = (\sum_i X_i)/n$, and the order of error $|\widehat{\mu} - \mu|$ is?</p>
 </div>
 </div>
 </div>
@@ -7676,11 +7695,11 @@ $$</p>
 <h3 id="Algorithms-and-Data">Algorithms and Data<a class="anchor-link" href="#Algorithms-and-Data">¶</a></h3><p>The performance of an algorithm may depend on the data.</p>
 <p>Heuristically, data for a given problem are ill-conditioned if small changes in the data may yield large changes in the solution.</p>
 <ul>
-<li><p>Condition of Data</p>
+<li><p>Condition of Data: quantify the condition of a dataset by <strong>condition number</strong>.</p>
 </li>
-<li><p>Robustness of Algorithms</p>
+<li><p>Robustness of Algorithms: handle a wide range of inputs; manage errors or irregularities in the data.</p>
 </li>
-<li><p>Stability of Algorithms</p>
+<li><p>Stability of Algorithms: stable results to small errors or perturbations.</p>
 </li>
 </ul>
 <h3 id="Efficiency">Efficiency<a class="anchor-link" href="#Efficiency">¶</a></h3><p>The efficiency of an algorithm refers to its usage of computer resources:</p>
@@ -7697,13 +7716,13 @@ usually the <strong>floating-point operations</strong>. The actual number of flo
 divided by the number of seconds required to perform the operations
 is called the <strong>flops (floating-point operations per second)</strong> rate.</p>
 <ul>
-<li><p><strong>Intel Core i9-10900K:</strong> reach up to around 1 TFLOP (teraflops) in single-precision floating-point performance.</p>
+<li><p><strong>Intel Core i9-14900K:</strong> reach up to around 4 TFLOP (teraflops) in single-precision floating-point (FP32) performance.</p>
 </li>
-<li><p><strong>Apple's M1:</strong> 2.6 TFLOPs</p>
+<li><p><strong>Apple's M2:</strong> 3.55 TFLOPs</p>
 </li>
-<li><p><strong>NVIDIA GeForce RTX 3080:</strong> 29.7 TFLOPS in single-precision (32-bit) floating-point performance.</p>
+<li><p><strong>NVIDIA GeForce RTX 4090:</strong> 82.6 TFLOPS in FP32 performance.</p>
 </li>
-<li><p><strong>NVIDIA A100 Tensor Core GPU:</strong> Designed for data centers and AI applications, the A100 is a part of NVIDIA's professional GPU lineup. It delivers up to 19.5 TFLOPS in double-precision (64-bit), around 156 TFLOPS in single-precision, and up to 312 TFLOPS for tensor operations used in AI and deep learning.</p>
+<li><p><strong>NVIDIA H100 Tensor Core GPU:</strong> Designed for data centers and AI applications, the H100 delivers up to 34 TFLOPS in double-precision (FP64), around 67 TFLOPS in FP32, and up to 1,000 TFLOPS for tensor operations used in AI and deep learning.</p>
 </li>
 </ul>
 <h4 id="Measuring-Efficiency">Measuring Efficiency<a class="anchor-link" href="#Measuring-Efficiency">¶</a></h4><p>Often, instead of the exact number of operations, we use the <em>order</em> of the
