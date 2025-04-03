@@ -21,6 +21,9 @@ title: STAT 207 - Advanced Statistical Computing
 - Office Hours:  M/W 10:00 - 11:00 AM, or by appointment. Zoom (https://ucr.zoom.us/j/99515225321)
 
 
+- [Jupyter and Python](/Exercises/S01_Jupyter_and_Python.ipynb)
+
+- [Intro to Statistical Computing](/Exercises/T00_Statistical_Computing.ipynb)
 
 ### Course Notes
 

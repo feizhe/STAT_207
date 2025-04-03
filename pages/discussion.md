@@ -52,9 +52,9 @@ for index, student in enumerate(students, start=1):
 
 ### Week 1: 
 
-- [Jupyter and Python](/Exercises/S01_Jupyter_and_Python.ipynb)
+- [Jupyter and Python](../Exercises/S01_Jupyter_and_Python.ipynb)
 
-- [Intro to Statistical Computing](/Exercises/T00_Statistical_Computing.ipynb)
+- [Intro to Statistical Computing](../Exercises/T00_Statistical_Computing.ipynb)
 
 
 ---
@@ -62,9 +62,9 @@ for index, student in enumerate(students, start=1):
 
 ### Week 2:  
 
-- **Qu, Xinhao**, [Sorting](/Exercises/Sorting.ipynb)
+- **Qu, Xinhao**, [Sorting](../Exercises/Sorting.ipynb)
 
-- **Lopez, Nancy**, [Real Numbers](/Exercises/reals.ipynb)
+- **Lopez, Nancy**, [Real Numbers](../Exercises/reals.ipynb)
 
 
 ---
