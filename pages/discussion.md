@@ -98,6 +98,7 @@ for index, student in enumerate(students, start=1):
 
 - **Wu, Yifan**, 
 
+- **Kritik Saxena**,
 ---
 
 
@@ -107,6 +108,7 @@ for index, student in enumerate(students, start=1):
 
 - **Lin, Pei-Ling**, 
 
+- **Kaushal Nandagiri**,
 ---
 
 
