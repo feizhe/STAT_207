@@ -72,11 +72,13 @@ for index, student in enumerate(students, start=1):
 
 ### Week 3:  
 
-- **Zhou, Bufan**, 
+Each one needs to explain an algorithm and solve a programming exercise (the two are not related):
 
-- **Li, Chuanman**, 
+- **Zhou, Bufan**, [Week3A](../Exercises/Week3A.ipynb)
 
-- **Olawole, Alice**,
+- **Li, Chuanman**, [Week3B](../Exercises/Week3B.ipynb)
+
+- **Olawole, Alice**, [Week3C](../Exercises/Week3C.ipynb)
 
 ---
 
