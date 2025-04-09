@@ -101,6 +101,7 @@ Each one needs to explain an algorithm and solve a programming exercise (the two
 - **Wu, Yifan**, 
 
 - **Kritik Saxena**,
+
 ---
 
 
@@ -111,6 +112,7 @@ Each one needs to explain an algorithm and solve a programming exercise (the two
 - **Lin, Pei-Ling**, 
 
 - **Kaushal Nandagiri**,
+
 ---
 
 
