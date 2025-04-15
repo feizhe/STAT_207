@@ -7620,7 +7620,7 @@ $$</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h3 id="Norm-Preserving-Linear-Transformations">Norm Preserving Linear Transformations<a class="anchor-link" href="#Norm-Preserving-Linear-Transformations">¶</a></h3><ul>
+<h2 id="Norm-Preserving-Linear-Transformations">Norm Preserving Linear Transformations<a class="anchor-link" href="#Norm-Preserving-Linear-Transformations">¶</a></h2><ul>
 <li><p>Orthogonal matrix: $OO^T = I$;</p>
 </li>
 <li><p>Orthonormal set of vectors $S$: every vector in S has magnitude 1 and the set of vectors are mutually orthogonal.</p>
@@ -7690,7 +7690,21 @@ $$</p>
 <li><p>$H$ has one eigenvalue equal to $-1$ and all others equal to 1.</p>
 </li>
 </ul>
-<p>Applications:</p>
+<p><strong>Example:</strong> Let
+$$
+u = \begin{pmatrix} 0 \\ 1 \end{pmatrix}.
+$$</p>
+<p>Then
+$$
+H = \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix} - 2\begin{pmatrix} 0 &amp; 0 \\ 0 &amp; 1 \end{pmatrix}
+= \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; -1 \end{pmatrix}.
+$$</p>
+<p>For any vector $v = \begin{pmatrix} x \\ y \end{pmatrix}$, the transformation is
+$$
+Hv = \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; -1 \end{pmatrix}\begin{pmatrix} x \\ y \end{pmatrix}
+= \begin{pmatrix} x \\ -y \end{pmatrix}.
+$$</p>
+<p><strong>Applications:</strong></p>
 <ul>
 <li>Matrix decomposition: QR, SVD,</li>
 <li>Orthogonalization:</li>
@@ -7707,21 +7721,22 @@ $$</p>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="Iterative-Solution-of-Linear-Equations">Iterative Solution of Linear Equations<a class="anchor-link" href="#Iterative-Solution-of-Linear-Equations">¶</a></h2><p>Many numerical problems involve iterative schemes of the form
-\begin{equation}\label{ite_lin}\tag{1}
-x_n = Bx_{n-1} + w 
-\end{equation}
+$$
+x_n = Bx_{n-1} + w
+\tag{1}
+$$
 for solving the vector-matrix equation $(I-B)x = w$. The map $f(x) = Bx + w$ satisfies
 $$
 \| f(y) - f(x)\| = \|B (y-x) \| \le \|B\|\cdot \|y - x\|
 $$
-and is contractive for a vector norm $\|x\|$ if $\|B\|&lt;1$.</p>
+and is contractive for a vector norm $\|x\|$ if $\|B\|&lt;1$ holds for the induced matrix norm.</p>
 <p><strong>NAS Proposition 6.5.1</strong>
 Let $B$ be an arbitrary matrix with spectral radius $\rho(B)$ (largest absolute value of the eigenvalues). Then $\rho(B) &lt; 1$ if and only if $\| B \| &lt; 1$ for some induced matrix norm. The inequality $\| B \| &lt; 1$ implies:</p>
 <p>(a) $\lim_{n\rightarrow\infty} \left| B^n \right| = 0$,</p>
 <p>(b) $\left( I - B \right)^{-1} = \sum_{n=0}^{\infty} B^n$,</p>
 <p>(c) $\frac{1}{1+\| B \|}\le \| \left( I - B \right)^{-1} \| \le \frac{1}{1-\| B \|}$.</p>
 <p>Linear iteration is especially useful in solving the equation $Ax = b$ for $x$
-when an approximation $C$ to $A^{−1}$ is known, let $B = I-CA$ and $w = Cb$ and iterate equation \eqref{ite_lin}.</p>
+when an approximation $C$ to $A^{−1}$ is known, let $B = I-CA$ and $w = Cb$ and iterate equation (1).</p>
 </div>
 </div>
 </div>
@@ -7732,7 +7747,12 @@ when an approximation $C$ to $A^{−1}$ is known, let $B = I-CA$ and $w = Cb$ an
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h3 id="Jacobi%E2%80%99s-Iteration">Jacobi’s Iteration<a class="anchor-link" href="#Jacobi%E2%80%99s-Iteration">¶</a></h3><p>Suppose $A = (a_{ij})$ is strictly diagonally dominant ($|a_{ii}|&gt;\sum_{j\ne i} |a_{ij}|$ ), let $D = \text{diag}(a_{ii})$ be the diagonal matrix. Then $C = D^{-1}$ is an approximate inverse of $A$, and $B = I-CA$ satisfies $\|B\|_\infty &lt;1$.</p>
+<h3 id="Jacobi%E2%80%99s-Iteration">Jacobi’s Iteration<a class="anchor-link" href="#Jacobi%E2%80%99s-Iteration">¶</a></h3><ul>
+<li><p>Jacobi’s method offers a typical example of this strategy.</p>
+</li>
+<li><p>Suppose $A = (a_{ij})$ is strictly diagonally dominant ($|a_{ii}|&gt;\sum_{j\ne i} |a_{ij}|$ ), let $D = \text{diag}(a_{ii})$ be the diagonal matrix. Then $C = D^{-1}$ is an approximate inverse of $A$, and $B = I-CA$ satisfies $\|B\|_\infty &lt;1$.</p>
+</li>
+</ul>
 </div>
 </div>
 </div>
