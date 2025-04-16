@@ -85,11 +85,11 @@ Each one needs to explain an algorithm and solve a programming exercise (the two
 
 ### Week 4:  
 
-- **Galicia Lona, Axel**, 
+- **Galicia Lona, Axel**, [Week4A](../Exercises/Week4A.ipynb)
 
-- **Xue, Yijia**, 
+- **Xue, Yijia**, [Week4B](../Exercises/Week4B.ipynb), with data [airports](../Exercises/airports.csv) and [names](../Exercises/names.csv)
 
-- **Jones, Nathalie**, 
+- **Jones, Nathalie**, [Week4C](../Exercises/Week4C.ipynb)
 
 ---
 
