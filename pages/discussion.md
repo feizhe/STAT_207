@@ -15,38 +15,6 @@ title: Exercises for Discussion
 
 - **Order:** Presentation orders are determined by random shuffling using the code provided below.
 
-```python
-import random
-
-# Define the list of students
-students = [
-    "FallahiFard, Behzad",
-    "Galicia Lona, Axel",
-    "Jones, Nathalie",
-    "Lee, Wonkeun",
-    "Li, Chuanman",
-    "Lin, Pei-Ling",
-    "Lin, Ying",
-    "Liu, Linlin",
-    "Liu, Yuxin",
-    "Lopez, Nancy",
-    "Olawole, Alice",
-    "Qu, Xinhao",
-    "Tang, Luhan",
-    "Wang, Kaiming",
-    "Wu, Yifan",
-    "Xue, Yijia",
-    "Yang, Chenguang",
-    "Zhou, Bufan"
-]
-
-# Shuffle the list randomly
-random.shuffle(students)
-# Print out the random order
-print("Random order of students:")
-for index, student in enumerate(students, start=1):
-    print(f"{index}: {student}")
-```
 
 ---
 
@@ -96,11 +64,11 @@ Each one needs to explain an algorithm and solve a programming exercise (the two
 
 ### Week 5: 
 
-- **Lin, Ying**, 
+- **Lin, Ying**, [Week5A](../Exercises/Week5A.ipynb)
 
-- **Wu, Yifan**, 
+- **Wu, Yifan**, [Week5B](../Exercises/Week5B.ipynb)
 
-- **Kritik Saxena**,
+- **Kritik Saxena**, [Week5C](../Exercises/Week5C.ipynb)
 
 ---
 
