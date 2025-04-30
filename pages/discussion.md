@@ -75,11 +75,11 @@ Each one needs to explain an algorithm and solve a programming exercise (the two
 
 ### Week 6: 
 
-- **Wang, Kaiming**, 
+- **Wang, Kaiming**, [Week6A](../Exercises/Week6A.ipynb)
 
-- **Lin, Pei-Ling**, 
+- **Lin, Pei-Ling**,  [Week6B](../Exercises/Week6B.ipynb)
 
-- **Kaushal Nandagiri**,
+- **Kaushal Nandagiri**, [Week6C](../Exercises/Week6C.ipynb)
 
 ---
 
