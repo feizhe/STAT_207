@@ -77,7 +77,7 @@ Each one needs to explain an algorithm and solve a programming exercise (the two
 
 - **Wang, Kaiming**, [Week6A](../Exercises/Week6A.ipynb)
 
-- **Lin, Pei-Ling**,  [Week6B](../Exercises/Week6B.ipynb)
+- **Lin, Pei-Ling**,  [Week6B](../Exercises/Week6B.ipynb), [MNIST image](../Exercises/mnist_data/15.png)
 
 - **Kaushal Nandagiri**, [Week6C](../Exercises/Week6C.ipynb)
 
