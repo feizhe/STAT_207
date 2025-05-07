@@ -86,9 +86,9 @@ Each one needs to explain an algorithm and solve a programming exercise (the two
 
 ### Week 7: 
 
-- **FallahiFard, Behzad**, 
+- **FallahiFard, Behzad**, [Week7A](../Exercises/Week7A.ipynb)
 
-- **Liu, Yuxin**, 
+- **Liu, Yuxin**, [Week7B](../Exercises/Week7B.ipynb)
 
 ---
 
