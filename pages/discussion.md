@@ -94,9 +94,9 @@ Each one needs to explain an algorithm and solve a programming exercise (the two
 
 ### Week 8: 
 
-- **Tang, Luhan**, 
+- **Tang, Luhan**, [Week8A](../Exercises/Week8A.ipynb)
 
-- **Liu, Linlin**, 
+- **Liu, Linlin**, [Week8B](../Exercises/Week8B.ipynb)
 
 ---
 
