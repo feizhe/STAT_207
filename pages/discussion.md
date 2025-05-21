@@ -102,8 +102,8 @@ Each one needs to explain an algorithm and solve a programming exercise (the two
 
 ### Week 9:  
 
-- **Yang,Chenguang**, 
+- **Yang,Chenguang**, [Week9A](../Exercises/Week9A.ipynb)
 
-- **Lee, Wonkeun**
+- **Lee, Wonkeun**, [Week9B](../Exercises/Week9B.ipynb)
 
 
