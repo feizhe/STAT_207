@@ -8,7 +8,7 @@ title: STAT 207 - Advanced Statistical Computing
   <img src="/images/convex-optimization-image.png?raw=true"  style="width: 100%;">
 </div>
 
-<h2>Spring 2025</h2>
+<h2>Winter 2026</h2>
 
 ---
 
