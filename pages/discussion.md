@@ -24,6 +24,7 @@ title: Exercises for Discussion
 
 - [Intro to Statistical Computing](../Exercises/T00_Statistical_Computing.ipynb)
 
+- [Example Problem](../Exercises/Sorting.ipynb)
 
 ---
 
@@ -36,29 +37,56 @@ title: Exercises for Discussion
 
 ### Week 3:  
 
+
+- [Yang, Sheng]()
+
+- [Kitagawa, Ryan]()
+
 ---
 
 
 ### Week 4:  
+
+
+- [Hou, Xiaoyang]()
+
+- [Navarro, Walter]()
 
 ---
 
 
 ### Week 5: 
 
+
 ---
 
 
 ### Week 6: 
+
+
+- [Jiang, Jonathan]()
+
+- [Cheng, Shengming]()
 
 ---
 
 
 ### Week 7: 
 
+
+- [Mejia-Sanchez, Ace]()
+
+- [Xu, Lusha]()
+
 ---
 
+
 ### Week 8: 
+
+
+- [Liu, Ruijie]()
+
+- [Grigsby, Makena]()
 
 ---
 
