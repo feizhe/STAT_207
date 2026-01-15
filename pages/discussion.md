@@ -31,6 +31,9 @@ title: Exercises for Discussion
 
 ### Week 2:  
 
+- [Sorting](../Exercises/Sorting.ipynb)
+
+- [Reals](../Exercises/reals.ipynb)
 
 ---
 
