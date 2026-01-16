@@ -5,7 +5,7 @@ title: Exercises for Discussion
 
 ### Guidelines
 
-- **Presentation:** The assigned presenter is expected to lead the discussion on the exercises and examples, delivering a mini-lecture. You are welcome to create additional notes (slides) or directly add content to the notebooks.
+- **Presentation:** The assigned presenter is expected to lead the discussion on the exercises and examples, delivering a mini-lecture. You are welcome to create additional notes (slides) or directly add content to the notebooks. The presenter is expected to explain the method, codes, and solve the exercise problems.
 
 - **Duration:** The presentation length should be approximately 15–20 minutes.
 
