@@ -5,15 +5,15 @@ title: Exercises for Discussion
 
 ### Guidelines
 
-- **Presentation:** The assigned presenter is expected to lead the discussion on the exercises and examples, delivering a mini-lecture. You are welcome to add additional notes or content to the notebooks.
+- **Presentation:** The assigned presenter is expected to lead the discussion on the exercises and examples, delivering a mini-lecture. You are welcome to create additional notes (slides) or directly add content to the notebooks.
 
-- **Duration:** Aim for a presentation length of approximately 15–20 minutes.
+- **Duration:** The presentation length should be approximately 15–20 minutes.
 
-- **Scheduling:** I will confirm the presenters for the upcoming week every Monday or Tuesday.
+- **Scheduling:** I will post the materials for the upcoming week no later than the prior Friday.
 
 - **Substitution:** If a presenter is unavailable (e.g., due to dropping the class), the next person in line will take their place.
 
-- **Order:** Presentation orders are determined by random shuffling using the code provided below.
+- **Order:** Presentation orders are determined by random shuffling.
 
 
 ---
@@ -41,9 +41,9 @@ title: Exercises for Discussion
 ### Week 3:  
 
 
-- [Yang, Sheng]()
+- [Yang, Sheng](../Exercises/Week3A.ipynb)
 
-- [Kitagawa, Ryan]()
+- [Kitagawa, Ryan](../Exercises/Week3C.ipynb)
 
 ---
 
