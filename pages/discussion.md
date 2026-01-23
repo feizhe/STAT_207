@@ -51,9 +51,9 @@ title: Exercises for Discussion
 ### Week 4:  
 
 
-- [Hou, Xiaoyang]()
+- [Hou, Xiaoyang](../Exercises/Week4B.ipynb), [airport data](../Exercises/airports.csv)
 
-- [Navarro, Walter]()
+- [Navarro, Walter](../Exercises/Week4D.ipynb)
 
 ---
 
