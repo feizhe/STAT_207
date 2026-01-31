@@ -60,6 +60,8 @@ title: Exercises for Discussion
 
 ### Week 5: 
 
+- [Week 5 Exercise](../Exercises/Week5.ipynb)
+
 
 ---
 
