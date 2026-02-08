@@ -69,9 +69,9 @@ title: Exercises for Discussion
 ### Week 6: 
 
 
-- [Jiang, Jonathan]()
+- [Jiang, Jonathan](../Exercises/Week6A26.ipynb)
 
-- [Cheng, Shengming]()
+- [Cheng, Shengming](../Exercises/Week6B26.ipynb)
 
 ---
 
