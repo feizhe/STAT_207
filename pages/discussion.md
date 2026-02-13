@@ -79,9 +79,9 @@ title: Exercises for Discussion
 ### Week 7: 
 
 
-- [Mejia-Sanchez, Ace]()
+- [Mejia-Sanchez, Ace](../Exercises/Week7A.ipynb)
 
-- [Xu, Lusha]()
+- [Xu, Lusha](../Exercises/Week7B.ipynb)
 
 ---
 
