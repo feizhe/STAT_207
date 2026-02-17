@@ -44,7 +44,7 @@ title: STAT 207 - Advanced Statistical Computing
 
 [MM Algorithm](/Notes/MM.html), [Source](/Notes/8.MM.ipynb)
 
-[EM Algorithm](/Notes/EM.html), [Source](/Notes/9.EM.ipynb)
+[EM Algorithm](/Notes/9.EM.html), [Source](/Notes/9.EM.ipynb)
 
 [Newton's Method](/Notes/Newton.html), [Source](/Notes/10.Newton.ipynb)
 
