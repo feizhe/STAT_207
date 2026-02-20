@@ -89,9 +89,9 @@ title: Exercises for Discussion
 ### Week 8: 
 
 
-- [Liu, Ruijie]()
+- [Liu, Ruijie](../Exercises/Week8_DataAugmentation.ipynb)
 
-- [Grigsby, Makena]()
+- [Grigsby, Makena](../Exercises/Week8_MCMCEM.ipynb)
 
 ---
 
