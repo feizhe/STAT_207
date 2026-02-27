@@ -96,3 +96,5 @@ title: Exercises for Discussion
 ---
 
 ### Week 9:  
+
+- [Advertising Spend Response Model](../Exercises/Week9_W26.ipynb)
