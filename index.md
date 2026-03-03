@@ -50,7 +50,7 @@ title: STAT 207 - Advanced Statistical Computing
 
 [Advanced Optimization Topics](/Notes/Opt_top.html), [Source](/Notes/11.Opt_top.ipynb)
 
-[Linear Programming](/Notes/LP.html), [Source](/Notes/12.LP.ipynb)
+[Linear Programming](/Notes/12.LP.html), [Source](/Notes/12.LP.ipynb)
 
 [Random Deviates](/Notes/random.html), [Source](/Notes/13.random.ipynb)
 
