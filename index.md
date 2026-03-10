@@ -52,7 +52,7 @@ title: STAT 207 - Advanced Statistical Computing
 
 [Linear Programming](/Notes/12.LP.html), [Source](/Notes/12.LP.ipynb)
 
-[Random Deviates](/Notes/random.html), [Source](/Notes/13.random.ipynb)
+[Random Deviates](/Notes/13.random.ipynbrandom.html), [Source](/Notes/13.random.ipynb)
 
 
 ---
